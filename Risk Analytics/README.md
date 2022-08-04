@@ -13,3 +13,5 @@ The data given below contains the information about the loan application at the 
 The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
 
 All other cases: All other cases when the payment is paid on time.
+
+The data can be downloaded from this link https://www.kaggle.com/code/gauravduttakiit/risk-analytics-in-banking-financial-services-1/data
